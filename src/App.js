@@ -9,11 +9,12 @@ function App() {
   return (
     <div >
          {
-          // roles=="admin"?<Naverbars></Naverbars>:null
+          //  roles=="admin"?<Naverbars></Naverbars>:null
          }
          {
           // roles=="manager"?<Naverbars></Naverbars>:null
          }
+         
 
        <Outlet></Outlet>
 
